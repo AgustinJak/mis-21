@@ -1,0 +1,2 @@
+# El formato de calendario exige fin de línea CRLF
+*.ics -text
